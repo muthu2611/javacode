@@ -24,5 +24,6 @@ public class printonlydub {
         }
         
         System.out.println("Original String: " + sb.toString());
+        //System.out.println("Duplicate elements: " + sb2.toString());
         System.out.println("Duplicate elements: " + sb2.toString());
     }}
